@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+    font-family: "gilroy";
+}
+.container {
+    text-align: center;
+    padding: 20px;
+    width: 80%;
+}
+.title {
+  font-size: 2em;
+  color: #333;
+  text-align: center;
+}
+.description {
+  font-size: 1.2em;
+  color: #666;
+  margin-bottom: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
